@@ -1,5 +1,5 @@
 # Arduino-Projects
-Arduino Uno Projects with Tinkercad
+Arduino Uno Projekteja Tinkercad simulaatioympäristössä
 
 Lämpömittari
 - Lämpömittari projektissa tein Arduino Unolla kytkennän ja ohjelman, jolla voi mitata ja tallentaa lämpötila dataa. Lämpötila mitataan 5 sekunnin välein ja tallennetaan Arduinon sisäiseen EEPROM-muistiin. Kytkennässä on nappi, joka tulostaa tiedot sarjaporttiin ja muuntaa lämpötilasensorin arvon celsius-asteiksi. Kytkennässä on myös toinen nappi, jonka avulla voidaan tyhjentää laitteen EEPROM-muisti.
